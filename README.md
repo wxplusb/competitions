@@ -6,3 +6,4 @@
   4. [Semrush Cup 1.0 - предсказание источника трафика по кликстриму](semrush_cup_1/README.md)
   5. [Цифровой прорыв 2022. Разработка рекомендательного алгоритма для читателей библиотеки](https://github.com/wxplusb/recommend_book/blob/main/README.md)
   6. [Yandex Cup 2022 - Audio Content. Предсказание исполнителя трека по набору акустических признаков](yandex_cup_audio/README.md)
+  7. [Соревнование от Silero - Расстановка ударений на русском языке](accent/README.md)
