@@ -3,8 +3,8 @@
 ### Задача:
 
 Расставить ударения на небольшом датасете на русском языке.
-[Kaggle](https://www.kaggle.com/competitions/silero-stress-predictor)
-###
+[https://www.kaggle.com/competitions/silero-stress-predictor](https://www.kaggle.com/competitions/silero-stress-predictor)
+
 
 ### Запуск
 ```
