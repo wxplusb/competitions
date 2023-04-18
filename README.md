@@ -10,3 +10,4 @@
   8. [Соревнование от ШИФТ ЦФТ - Классификация размытых (blurred) фото](blur_detection/README.md)
   9. [Мультимодальная классификация товаров от KazanExpress](multimodal_class/README.md)
  10. [MTS ML CUP 2023 - Определение пола и возраста по последовательности посещённых сайтов](mts_cup/README.md)
+ 11. [Data Fusion 2023 - Adversarial ML между командами атакующих и защищающих ML модели на транзакционных данных](data_fusion_2023/README.md)
